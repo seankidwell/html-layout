@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: rgb(80, 80, 80);
+    width: cover;
+    height: 250px;
+}
+.full {
+    background-color: rgb(189, 189, 189)
+
+}
+.top {
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: cover;
+    height: 1000px;
+}
+.bottom {
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: cover;
+    height: 145px;
+}

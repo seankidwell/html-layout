@@ -1,0 +1,59 @@
+.top {
+    width: cover;
+    height: 350px;
+    margin: 45px;
+    border: 10px solid black;
+}
+.middle {
+    width: cover;
+    height: 500px;
+    margin: 45px;
+    border: 10px dotted black;
+}
+.bottom {
+    width: cover;
+    height: 500px;
+    margin: 45px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 1px solid black;
+    box-shadow: 7px 7px 15px -6px
+}
+.rectangle1 {
+    float: left;
+    background-color: purple;
+    height: 200px;
+    width: 90px;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+.rectangle2 {
+    float: left;
+    background-color: green;
+    height: 310px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 90px;
+
+}
+.circle {
+    float: left;
+    background-color: rgb(138, 253, 253);
+    border-radius: 50%;
+    height: 310px;
+    width: 310px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.rectangle3 {
+    background-color: rgb(255, 255, 189);
+    width: cover;
+    height: 350px;
+    margin: 80px;
+    box-shadow: 20px 20px 30px black
+}
+p {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 200px;
+}
